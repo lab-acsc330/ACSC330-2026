@@ -1,0 +1,5 @@
+﻿Lab Teacher Email : com.lk@frederick.ac.cy
+
+Name Surname - Email 
+first example : 
+Andreas Georgiou - andreasgeorgiou@gmail.com
